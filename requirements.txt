@@ -7,5 +7,6 @@ matplotsoccer
 matplotlib
 requests
 wyscoutapi
-lxml==4.9.3
+multimethod==1.9.1
+pandera<0.15.0
 socceraction
