@@ -1,6 +1,5 @@
 streamlit
 cryptography
-socceraction
 numpy
 pandas
 statsbombpy
@@ -8,3 +7,5 @@ matplotsoccer
 matplotlib
 requests
 wyscoutapi
+lxml==4.9.3
+socceraction
