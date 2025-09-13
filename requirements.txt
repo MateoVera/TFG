@@ -10,3 +10,5 @@ wyscoutapi
 multimethod==1.11
 pandera==0.17.2
 socceraction
+wyscoutapi
+ratelimiter==1.2.0.post0
